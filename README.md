@@ -1,5 +1,9 @@
 # 💫 About Me:
-I'm currently working on building scallable web applications by using next js nodejs typescript<br>i'm looking to collabrate on open source projects<br>i'm curretly learning GenAi <br>
+I am a Full Stack Developer focused on building **scalable web applications** using **Next.js, Node.js, and TypeScript**. 
+
+- 🚀 Currently working on: Scalable web architecture.
+- 🤝 Looking to collaborate on: Open-source projects.
+- 🧠 Currently learning: **Generative AI (GenAI)**. <br>
 
 
 ## 🌐 Socials:
@@ -12,10 +16,5 @@ I'm currently working on building scallable web applications by using next js no
 ![](https://nirzak-streak-stats.vercel.app/?user=gautambamne&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=gautambamne&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-[![](https://visitcount.itsvg.in/api?id=gautambamne&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
